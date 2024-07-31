@@ -53,7 +53,7 @@ To visualize the agent's learning progress:
 Each episode concludes once the termination flag is set by the environment, indicating either the completion of a task within the environment or the reaching of a predefined condition, such as a maximum number of time-steps.
 
 ## Results
-In this exercise, we developed a Q-learning reinforcement learning algorithm. The results, including the cumulative reward plot and the final values of the Q-table, demonstrate that the algorithm helps the agent efficiently reach its goal and learn an optimal policy by interacting with a stochastic and loopy environment.
+In this project, we developed a Q-learning reinforcement learning algorithm. The results, including the cumulative reward plot and the final values of the Q-table, demonstrate that the algorithm helps the agent efficiently reach its goal and learn an optimal policy by interacting with a stochastic and loopy environment.
 
 This report outlines the development process and performance outcomes of the tabular reinforcement learning agent within the MDP framework, providing a comprehensive overview of the methods and results achieved during this project.
 
